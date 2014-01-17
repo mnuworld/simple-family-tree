@@ -1,0 +1,13 @@
+{
+    "name": "samwilson/simple-family-tree",
+    "description": "A very simple family tree.",
+    "license": "GPL-3.0+",
+    "autoload": {
+        "psr-0": {"": "classes/"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+        "behat/behat": "v2.5.1"
+    }
+}
+
